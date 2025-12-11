@@ -1,4 +1,2 @@
-# cpp-course
-# cpp-course
-# test-suite
-# test-suite
+## test suite
+testing common packages I use in hackathons.
