@@ -1,0 +1,16 @@
+{
+  "name": "2-exact_hashing",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "imurmurhash": "^0.1.4",
+    "xxhash-wasm": "^1.1.0"
+  }
+}
