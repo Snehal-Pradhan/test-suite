@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { SignIn, SignInButton, SignUp, SignUpButton } from "@clerk/nextjs";
+import { SignInButton, SignUpButton } from "@clerk/nextjs";
 
 function HomePage() {
   return (
